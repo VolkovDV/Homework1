@@ -3,7 +3,7 @@ MACHINES = {
   # VM name "kernel update"
   :"kernel-update" => {
               # VM box
-              :box_name => "result",
+              :box_name => "VolkovDV/Centos7.8",
               # VM CPU count
               :cpus => 2,
               # VM RAM size (Mb)
